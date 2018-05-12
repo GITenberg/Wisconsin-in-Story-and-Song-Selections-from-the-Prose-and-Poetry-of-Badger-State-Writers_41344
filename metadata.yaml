@@ -1,0 +1,33 @@
+_repo: Wisconsin-in-Story-and-Song-Selections-from-the-Prose-and-Poetry-of-Badger-State-Writers_41344
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Hippensteel, Henry Sherman
+    gutenberg_agent_id: '41123'
+    url: http://www.gutenberg.org/2009/agents/41123
+  - agent_name: Rounds, Charles Ralph
+    alias: Rounds, Charles R.
+    birthdate: 1877
+    gutenberg_agent_id: '41122'
+    url: http://www.gutenberg.org/2009/agents/41122
+description: ''
+gutenberg_issued: '2012-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41344'
+  lccn: '16014042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American literature -- Wisconsin'
+- !lcsh 'Wisconsin -- Literary collections'
+title: 'Wisconsin in Story and Song;
+
+  Selections from the Prose and Poetry of Badger State Writers'
+url: http://www.gutenberg.org/ebooks/41344
