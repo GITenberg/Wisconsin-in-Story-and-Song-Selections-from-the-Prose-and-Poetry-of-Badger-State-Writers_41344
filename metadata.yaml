@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41122'
     url: http://www.gutenberg.org/2009/agents/41122
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41344#Wisconsin-in-Story-and-Song-Selections-from-the-Prose-and-Poetry-of-Badger-State-Writers
 gutenberg_issued: '2012-11-11'
 gutenberg_type: Text
 identifiers:
